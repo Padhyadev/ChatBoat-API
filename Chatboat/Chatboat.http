@@ -1,0 +1,6 @@
+@Chatboat_HostAddress = http://localhost:5089
+
+GET {{Chatboat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
